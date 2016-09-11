@@ -1,0 +1,44 @@
+nav {
+  color: teal;
+}
+a {
+  color: pink;
+  margin-left: 20px;
+  font: impact;
+}
+header {
+  color: green;
+  font-size: 16;
+  text-align:center;
+  width: 100%;
+}
+h2 {
+  color: blue;
+}
+img {
+  width: 400px;
+}
+body {
+  margin: 100px;
+  background-color: #99FFCC;
+  font-family: helvetica;
+}
+head {
+}
+h1 {
+  margin: 0 auto;
+}
+header h1 {
+  background-color: #336699;
+  color: #CCFF00;
+  font-style: bold;
+}
+.greeting {
+  text-align: left;
+  font-size: 25px;
+  font-weight: bold;
+}
+.others {
+  font-size: 20;
+  color: #CC0033;
+}
